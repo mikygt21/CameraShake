@@ -817,10 +817,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41035b4db400b61459ffca45956c0f65, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_maxvelocity: 5.1
   m_springSlider: {fileID: 1278517571}
   m_damperSlider: {fileID: 1113251122}
   m_shakeSlider: {fileID: 1150930099}
-  PositionDiff: {x: 0, y: 0}
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
